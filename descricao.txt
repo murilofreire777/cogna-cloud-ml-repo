@@ -1,0 +1,11 @@
+Ementa:
+Introdução à computação em nuvem, serviços de cloud para machine learning (AWS, Azure, Google Cloud), implantação e escalabilidade de modelos, uso de ferramentas como Docker e Kubernetes para deploy de modelos.
+
+Habilidades adquiridas após a disciplina:
+O aluno será capaz de entender a computação em nuvem, utilizar serviços de cloud para machine learning como AWS, Azure e Google Cloud, implantar e escalar modelos ML, e usar ferramentas como Docker e Kubernetes para deploy eficiente de modelos, atendendo às demandas atuais do mercado de TI.
+
+Metodologia de Ensino:
+Foco em aulas expositivas, estudos de caso, trabalhos em grupo, e laboratórios práticos.
+
+Recursos
+Utilização de plataformas de aprendizado online, notebooks Jupyter, datasets abertos e ferramentas de desenvolvimento colaborativo como GitHub.
